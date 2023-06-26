@@ -8,6 +8,8 @@ NIM  : F55121060
 
 KELAS: B
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 A. Analysis Algorithm :
 
    BUBBLE SORT
