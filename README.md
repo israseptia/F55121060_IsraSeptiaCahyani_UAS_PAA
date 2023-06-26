@@ -40,8 +40,12 @@ A. Analysis Algorithm :
       sebagai pergeseran. Oleh karena itu, waktu komputasi dalam kasus rata-rata adalah O(n^2), di mana n adalah jumlah elemen dalam larik.
     Pada kasus yang diberikan, waktu komputasi pengurutan insertion adalah 0.0014302730560302734 detik.
 
+
+.
+
       
 B. Analysis Algorithm :
+
    TSP
    1. Worst case
       Dalam kasus terburuk, kompleksitas waktu algoritma TSP meningkat secara faktorial, yaitu O(n!), di mana n adalah jumlah titik yang harus dikunjungi.
