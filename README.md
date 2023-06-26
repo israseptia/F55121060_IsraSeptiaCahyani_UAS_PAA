@@ -8,7 +8,7 @@ NIM  : F55121060
 
 KELAS: B
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~
 
 A. Analysis Algorithm :
 
@@ -45,8 +45,6 @@ A. Analysis Algorithm :
       sebagai pergeseran. Oleh karena itu, waktu komputasi dalam kasus rata-rata adalah O(n^2), di mana n adalah jumlah elemen dalam larik.
     Pada kasus yang diberikan, waktu komputasi pengurutan insertion adalah 0.0014302730560302734 detik.
 
-
-.
 
       
 B. Analysis Algorithm :
