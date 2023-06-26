@@ -1,25 +1,28 @@
 # F55121060_IsraSeptiaCahyani_UAS_PAA
 
 UAS "PERANCANGAN ANALISIS ALGORITMA"
+
 NAMA : ISRA SEPTIA CAHYANI
+
 NIM  : F55121060
+
 KELAS: B
 
 A. Analysis Algorithm :
 
    BUBBLE SORT
    1. Worst case
-      Pada worst case, kita harus mempertimbangkan jumlah maksimum iterasi yang diperlukan untuk mengurutkan elemen dalam array. Pada bubble sort, worst case terjadi ketika
+      Pada worst case, harus mempertimbangkan jumlah maksimum iterasi yang diperlukan untuk mengurutkan elemen dalam array. Pada bubble sort, worst case terjadi ketika
       elemen-elemen dalam array sudah dalam urutan terbalik (terbesar ke terkecil). Dalam kasus ini, setiap pasangan elemen akan menukar posisinya pada setiap iterasi.
       Jumlah iterasi yang diperlukan dalam worst case adalah sebanyak (n-1) iterasi, di mana n adalah jumlah elemen dalam array. Dalam kasus ini, dengan 74 iterasi,
       dapat disimpulkan bahwa ini adalah worst case.
    3. Best case
-      Pada best case, kita mempertimbangkan jumlah minimum iterasi yang diperlukan untuk mengurutkan elemen dalam array. Pada bubble sort, best case terjadi ketika
+      Pada best case, mempertimbangkan jumlah minimum iterasi yang diperlukan untuk mengurutkan elemen dalam array. Pada bubble sort, best case terjadi ketika
       elemen-elemen dalam array sudah dalam urutan yang benar (terkecil ke terbesar). Dalam kasus ini, tidak ada pertukaran yang perlu dilakukan pada setiap iterasi,
       dan algoritma akan berhenti setelah satu iterasi penuh tanpa adanya pertukaran. Jumlah iterasi yang diperlukan dalam best case adalah 1 iterasi. Dalam kasus ini,
       pada iterasi ke-72, dapat disimpulkan bahwa ini adalah best case.
    5. Average case
-      Pada average case, kita mempertimbangkan jumlah rata-rata iterasi yang diperlukan untuk mengurutkan elemen dalam array dengan sejumlah kemungkinan kombinasi urutan.
+      Pada average case, mempertimbangkan jumlah rata-rata iterasi yang diperlukan untuk mengurutkan elemen dalam array dengan sejumlah kemungkinan kombinasi urutan.
       Average case pada bubble sort adalah sulit untuk dihitung secara tepat, tetapi dapat diperkirakan sebagai O(n^2), di mana n adalah jumlah elemen dalam array.
       Dalam kasus ini, dengan 74 iterasi, dapat disimpulkan bahwa ini adalah average case yang terjadi.
     Pengurutan ini membutuhkan waktu komputasi sekitar 0.0013651847839355469 detik. Waktu komputasi dapat bervariasi tergantung pada kecepatan mesin dan implementasi algoritma.
